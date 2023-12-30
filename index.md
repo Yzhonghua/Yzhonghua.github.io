@@ -10,4 +10,4 @@ Mail: yuanzhonghua00@gmail.com
 
 # Biography
 
-Hi, I'm Zhonghua Yuan. I will be joining the University of Washington as an ECE student in 2023. Previously I obtained my Bachelor degree of Computer Science from Hefei University of Technology. I'm a fan of Jimmy Butter.
+Hi, I'm Zhonghua Yuan. I will be joining the University of Washington as an ECE student in 2023. Previously I obtained my Bachelor degree of Computer Science from Hefei University of Technology. I'm a fan of Jimmy Butter. I'm learning things about system programming.
